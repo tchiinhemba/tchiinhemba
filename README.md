@@ -5,5 +5,5 @@
 #### Contact
 [LinkedIn](https://linkedin.com/in/tchiinhemba)<br>
 [Twitter](https://twitter.com/tchiinhemba)<br>
-[Email](tchiinhemba@outlook.com)<br>
+[Instagram](https://www.instagram.com/tchiinhemba/)<br>
 [Medium](https://medium.com/@tchiinhemba)<br>
