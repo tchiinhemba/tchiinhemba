@@ -9,10 +9,10 @@
 [Medium](https://medium.com/@tchiinhemba)<br>
 
 #### I work with <br>
-<p align="left"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" />
-  <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux"/> <br>
+<p align="left"><img src="https://github.com/konpa/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://github.com/detain/svg-logos/blob/master/svg/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.svg" alt="java" width="40" heigth="35"/>
+  <img src="https://github.com/konpa/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <br>
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
