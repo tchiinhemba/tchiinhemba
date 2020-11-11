@@ -27,9 +27,9 @@
       <img src="https://github.com/rdimascio/icons/blob/master/icons/color/html5.svg" alt="html5" width="40" height="40"/>
       <img src="https://github.com/konpa/devicon/blob/master/icons/css3/css3-original.svg" alt="logo css3" width="40" height="40" />
       <img src="https://github.com/detain/svg-logos/blob/master/svg/javascript-1.svg" alt="logo js" width="40" height="40" />
+     <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/typescript/typescript.svg"       alt="ts" width="40" height="40"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
       <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/>
-     <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/typescript/typescript.svg" alt="ts" width="40" height="40"/>
     </td>
   </tr>
  </table>
