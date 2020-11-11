@@ -1,7 +1,4 @@
-
-
-#### Contact
-[LinkedIn](https://linkedin.com/in/tchiinhemba) - [Twitter](https://twitter.com/tchiinhemba) - [Instagram](https://www.instagram.com/tchiinhemba/)
+<p><strong>Contact</strong></p> [LinkedIn](https://linkedin.com/in/tchiinhemba) - [Twitter](https://twitter.com/tchiinhemba) - [Instagram](https://www.instagram.com/tchiinhemba/)
 
  <table>
   <tr>
