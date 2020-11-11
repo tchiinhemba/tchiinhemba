@@ -1,4 +1,4 @@
-<p><strong>Contact</strong></p> [LinkedIn](https://linkedin.com/in/tchiinhemba) - [Twitter](https://twitter.com/tchiinhemba) - [Instagram](https://www.instagram.com/tchiinhemba/)
+<p><strong>Contact: </strong> <a  href="https://linkedin.com/in/tchiinhemba">LinkedIn</a> <a href="https://twitter.com/tchiinhemba">Twitter</a> <a href="https://www.instagram.com/tchiinhemba">Instagram</a> </p>
 
  <table>
   <tr>
