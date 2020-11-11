@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td>
-      <p><strong>I work with</strong></p>
+      <p><strong>Meus Interesses</strong></p>
       <img src="https://github.com/konpa/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
       <img src="https://github.com/detain/svg-logos/blob/master/svg/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
       <img src="https://github.com/konpa/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
