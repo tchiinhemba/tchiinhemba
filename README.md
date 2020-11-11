@@ -1,6 +1,7 @@
+## Hi there!! ✌
+<p>Eu sou o <strong>Eládio</strong> sou programador, apaixonado por programação e tecnologia em todos os sentidos da palavra. </br>(NERD por natureza).</p>
 
-
-<p><strong>Contact: </strong> <a  href="https://linkedin.com/in/tchiinhemba">LinkedIn</a> <a href="https://twitter.com/tchiinhemba">Twitter</a> <a href="https://www.instagram.com/tchiinhemba">Instagram</a> </p>
+<p><strong>Contact: </strong> <a  href="https://linkedin.com/in/tchiinhemba">LinkedIn</a> | <a href="https://twitter.com/tchiinhemba">Twitter</a> | <a href="https://www.instagram.com/tchiinhemba">Instagram</a> </p>
 
  <table>
   <tr>
