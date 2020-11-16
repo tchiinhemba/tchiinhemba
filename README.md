@@ -24,6 +24,7 @@
       <img src="https://github.com/detain/svg-logos/blob/master/svg/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
       <img src="https://github.com/konpa/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
       <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/angularjs/angularjs-original.svg" alt="github" width="40" height="40"/>
       <img src="https://github.com/rdimascio/icons/blob/master/icons/color/html5.svg" alt="html5" width="40" height="40"/>
       <img src="https://github.com/konpa/devicon/blob/master/icons/css3/css3-original.svg" alt="logo css3" width="40" height="40" />
       <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/javascript/javascript.svg" alt="logo js" width="40" height="40" />
