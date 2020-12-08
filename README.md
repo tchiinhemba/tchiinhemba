@@ -13,8 +13,8 @@
  <table>
   <tr>
     <td>
-     <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchiinhemba&count_private=true&layout=compact" />
-     <img width="430px" src="https://github-readme-stats.vercel.app/api/?username=tchiinhemba&count_private=true" />
+     <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchiinhemba&count_private=true&layout=compact&theme=dark" />
+     <img width="430px" src="https://github-readme-stats.vercel.app/api/?username=tchiinhemba&count_private=true&theme=dark" />
     </td>
   </tr>
   <tr>
