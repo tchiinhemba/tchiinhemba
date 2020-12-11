@@ -1,5 +1,5 @@
-## Hi there!! ✌
-<p>Eu sou o <strong>Eládio</strong> sou programador, apaixonado por programação e tecnologia em todos os sentidos da palavra. 
+## As tropa! É como ?? ✌
+<p>Eu sou o <strong>Eládio</strong> sou um cara legal. 
 </br> Eu prefiro ser essa metamorfose ambulante,do que ter aquela velha opinião formada sobre tudo.
 
 <p> 
