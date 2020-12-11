@@ -1,7 +1,6 @@
 ## Hi there!! ✌
 <p>Eu sou o <strong>Eládio</strong> sou programador, apaixonado por programação e tecnologia em todos os sentidos da palavra. 
-</br> Quanto a formação: sou autodidata.
-</br> (NERD por natureza).</p>
+</br> Eu prefiro ser essa metamorfose ambulante,do que ter aquela velha opinião formada sobre tudo.
 
 <p> 
  <a  href="https://linkedin.com/in/tchiinhemba">
