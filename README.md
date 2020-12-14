@@ -15,9 +15,6 @@
   <a href="mailto:tchiinhemba@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
- <a href="#">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
- </a>
 </p>
 
  <table>
