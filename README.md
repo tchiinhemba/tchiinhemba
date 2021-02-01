@@ -1,4 +1,4 @@
-## As tropa! É como ?? ✌
+## Vida longa e próspera! ?? 🖖
 <p>Eu sou o <strong>Eládio</strong> sou um cara legal. 
 </br> Eu prefiro ser essa metamorfose ambulante,do que ter aquela velha opinião formada sobre tudo.
 
