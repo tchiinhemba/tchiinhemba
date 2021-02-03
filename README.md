@@ -1,5 +1,5 @@
-## Olá! ?? 🖖
-<p>Hello, I'm<strong>Eládio</strong>, and I'm good boy.
+## Hi! 🖖
+<p>Hello, I'm <strong>Eládio</strong>, and I'm good boy.
 
 <p> 
  <a  href="https://linkedin.com/in/eladioclaudio" target="_blank">
