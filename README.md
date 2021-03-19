@@ -1,5 +1,4 @@
-## Hi! 🖖
-## I'm JavaScript Lover...
+## Hi! My name is Eládio and I'm a good boy.
 
 <p> 
  <a  href="https://linkedin.com/in/eladioclaudio" target="_blank">
