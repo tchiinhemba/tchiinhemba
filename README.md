@@ -1,4 +1,5 @@
-## Hi! My name is Eládio and I'm a good boy.
+
+<h1>Hi! My name is Eládio and this is my profile.</h1>
 
 <p> 
  <a  href="https://linkedin.com/in/eladioclaudio" target="_blank">
@@ -12,10 +13,15 @@
   </a>
 </p>
 
+<div style="width: 1024; display: flex;">
+ <div><img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladioclaudio&count_private=true&layout=compact&theme=dark" /><div/>
+  <div><img width="430px" src="https://github-readme-stats.vercel.app/api/?username=eladioclaudio&count_private=true&theme=dark" /><div/>
+<div/>
+
  <table>
   <tr>
     <td>
-     <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladioclaudio&count_private=true&layout=compact&theme=dark" />
+     <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladioclaudio&count_private=true&layout=compact&theme=dark" />
      <img width="430px" src="https://github-readme-stats.vercel.app/api/?username=eladioclaudio&count_private=true&theme=dark" />
     </td>
   </tr>
