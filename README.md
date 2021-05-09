@@ -13,11 +13,10 @@
   </a>
 </p>
 
-
  <table>
   <tr>
     <td>
-     <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladioclaudio&count_private=true&layout=compact&theme=dark" />
+     <img width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladioclaudio&count_private=true&layout=compact&theme=dark" />
      <img width="430px" src="https://github-readme-stats.vercel.app/api/?username=eladioclaudio&count_private=true&theme=dark" />
     </td>
   </tr>
