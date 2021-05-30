@@ -1,8 +1,14 @@
-
+<body>
 <h3 align="middle">Welcome to Eládio Cláudio's profile!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
----
+</hr>
+
+<p>
+<a herf="">
+<img src="https://readme-typing-svg.herokuapp.com?width=700&lines=Hi%2C+I'm+El%C3%A1dio+and+I+don't+know+how+to+talk+about+myself.;But%2C+doing+a+little+introduction%2C+this+is+my+profile+on+GitHub.)](https://git.io/typing-svg" />
+</a>
+</p>
 
 <div>
 <p>
@@ -15,7 +21,7 @@ For me, writing code works like </br> an escape, a way to let off steam!
 </p>
 </hr>
 </div>
-
+</body>
 
 <p> 
  <a  href="https://linkedin.com/in/eladioclaudio" target="_blank">
