@@ -1,5 +1,16 @@
-
-<h1>Hi! My name is Eládio and this is my profile.</h1>
+<body>
+<h1 style="color: #48beff; text-align: end; font-weight: bold;">WELCOME</h1>
+<div>
+<p>
+Hi, I'm <span style="color: #48beff; font-weight: bold;">Eladio</span> and I don't know how to talk about myself. </br>
+But, doing a little introduction, this is my profile on GitHub.
+</p>
+<p style="text-align: end;">
+I really like to write code. </br>
+For me, writing code works like </br> an escape, a way to let off steam!
+</p>
+</div>
+</body>
 
 <p> 
  <a  href="https://linkedin.com/in/eladioclaudio" target="_blank">
