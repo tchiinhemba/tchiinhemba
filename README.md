@@ -1,5 +1,8 @@
 <body>
-<h1 align="end">WELCOME</h1>
+<h3 align="middle">Welcome to Eládio Cláudio's profile!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 <div>
 <p>
 Hi, I'm <strong>Eládio</strong> and I don't know how to talk about myself. </br>
@@ -9,6 +12,7 @@ But, doing a little introduction, this is my profile on GitHub.
 I really like to write code. </br>
 For me, writing code works like </br> an escape, a way to let off steam!
 </p>
+</hr>
 </div>
 </body>
 
