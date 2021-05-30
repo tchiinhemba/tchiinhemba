@@ -22,6 +22,11 @@ For me, writing code works like </br> an escape, a way to let off steam!
 </p>
 </hr>
 </div>
+
+
+
+
+<footer><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eladioclaudio&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a></footer>
 </body>
 
 <p> 
