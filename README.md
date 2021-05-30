@@ -4,7 +4,7 @@
 </h3>
 </hr>
 
-<p>
+<p align="middle">
 <a herf="">
 <img src="https://readme-typing-svg.herokuapp.com?width=700&lines=Hi%2C+I'm+El%C3%A1dio+and+I+don't+know+how+to+talk+about+myself.;But%2C+doing+a+little+introduction%2C+this+is+my+profile+on+GitHub.)](https://git.io/typing-svg" />
 </a>
