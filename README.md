@@ -1,6 +1,3 @@
-<style>
-
-</style>
 
 <body>
 <h3 align="middle">Welcome to Eládio Cláudio's profile!
