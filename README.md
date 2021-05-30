@@ -1,4 +1,4 @@
-<body>
+
 <h3 align="middle">Welcome to Eládio Cláudio's profile!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
@@ -15,7 +15,7 @@ For me, writing code works like </br> an escape, a way to let off steam!
 </p>
 </hr>
 </div>
-</body>
+
 
 <p> 
  <a  href="https://linkedin.com/in/eladioclaudio" target="_blank">
