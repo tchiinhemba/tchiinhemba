@@ -1,11 +1,11 @@
 <body>
-<h1 style="color: #48beff; text-align: end; font-weight: bold;">WELCOME</h1>
+<h1 align="end">WELCOME</h1>
 <div>
 <p>
-Hi, I'm <span style="color: #48beff; font-weight: bold;">Eladio</span> and I don't know how to talk about myself. </br>
+Hi, I'm <strong>Eládio</strong> and I don't know how to talk about myself. </br>
 But, doing a little introduction, this is my profile on GitHub.
 </p>
-<p style="text-align: end;">
+<p align="end">
 I really like to write code. </br>
 For me, writing code works like </br> an escape, a way to let off steam!
 </p>
