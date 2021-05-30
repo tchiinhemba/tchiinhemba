@@ -1,8 +1,5 @@
 <style>
 
-h3 {
-  color: blue;
-}
 </style>
 
 <body>
