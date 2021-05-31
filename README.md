@@ -1,32 +1,33 @@
 
 <body>
-<h3 align="middle">Welcome to Eládio Cláudio's profile!
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-</hr>
+  <h3 align="middle">Welcome to Eládio Cláudio's profile!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  </h3>
+  </hr>
 
-<p align="middle">
-<a herf="">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&width=700&lines=Hi%2C+I'm+El%C3%A1dio+and+I+don't+know+how+to+talk+about+myself.;I'm+Software+Developer+for+1+year!;From+time+to+time%2C+I+write+a+few+articles+on+Medium.;I'm+currently+focused+on+Web+Development.;Specifically+MERN+Stack+and+MEAN+Stack.;I+have+also+focused+on+the+Vanilla+Development." />
-</a>
+  <p align="middle">
+    <a herf="">
+      <img src="https://readme-typing-svg.herokuapp.com?center=true&width=700&lines=Hi%2C+I'm+El%C3%A1dio+and+I+don't+know+how+to+talk+about+myself.;I'm+Software+Developer+for+1+year!;From+time+to+time%2C+I+write+a+few+articles+on+Medium.;I'm+currently+focused+on+Web+Development.;Specifically+MERN+Stack+and+MEAN+Stack.;I+have+also+focused+on+the+Vanilla+Development." />
+  </a>
 </p>
 
 <div>
-<p>
-Hi, I'm <strong>Eládio</strong> and I don't know how to talk about myself. </br>
-But, doing a little introduction, this is my profile on GitHub.
-</p>
-<p align="end">
-I really like to write code. </br>
-For me, writing code works like </br> an escape, a way to let off steam!
-</p>
-</hr>
+  <p>
+    Hi, I'm <strong>Eládio</strong> and I don't know how to talk about myself. </br>
+    But, doing a little introduction, this is my profile on GitHub.
+  </p>
+  <p align="end">
+      I really like to write code. </br>
+      For me, writing code works like </br> an escape, a way to let off steam!
+  </p>
+  </hr>
 </div>
 
-
-
-
-<footer><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eladioclaudio&theme=react-dark" /></a></footer>
+ <footer>
+   <a href="">
+      <img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eladioclaudio&theme=react-dark" />
+  </a>
+ </footer>
 </body>
 
 <p> 
