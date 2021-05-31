@@ -26,12 +26,12 @@ For me, writing code works like </br> an escape, a way to let off steam!
 
 
 
-<footer><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eladioclaudio&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a></footer>
+<footer><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eladioclaudio&theme=react-dark" /></a></footer>
 </body>
 
 <p> 
  <a  href="https://linkedin.com/in/eladioclaudio" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://activity-graph.herokuapp.com/graph?username=eladioclaudio&theme=dracula">
  </a>
  <a href="https://www.instagram.com/eladio__claudio" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
