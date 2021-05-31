@@ -23,14 +23,17 @@
 
 
 <p align="middle">
-<a href="">
+<a href="mailto:elladioclaudio@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/eladioclaudio/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/eladio__claudio"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.instagram.com/eladio__claudio" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https://api.whatsapp.com/send?l=pt_AO&phone=+244931509802&text=Hello, can we have a chat?">
+<a href="https://api.whatsapp.com/send?l=pt_AO&phone=+244931509802&text=Hello Eládio, can we have a chat?">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </p>
