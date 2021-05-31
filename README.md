@@ -12,14 +12,22 @@
 </p>
 
 <div>
-  <p>
-    Hi, I'm <strong>Eládio</strong> and I don't know how to talk about myself. </br>
-    But, doing a little introduction, this is my profile on GitHub.
+<table>
+<tr>
+<td>
+  <p align="left">
+    Hi, I'm <strong>Eládio</strong> and I don't know </br>how to talk about myself. </br>
+    But, doing a little introduction,</br> this is my profile on GitHub.
   </p>
+  </td>
+  <td>
   <p align="end">
       I really like to write code. </br>
       For me, writing code works like </br> an escape, a way to let off steam!
   </p>
+  </td>
+  </tr>
+  </table>
   </hr>
 </div>
 
@@ -39,12 +47,15 @@
   </a>
 </p>
 
+<table>
+<tr></tr>
+</table>
+
  <table>
   <tr>
     <td>
-     <img width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladioclaudio&count_private=true&layout=compact&theme=dark" />
-     <img width="410px" src="https://github-readme-stats.vercel.app/api/?username=eladioclaudio&count_private=true&theme=dark" />
-    </td>
+     
+  </td>
   </tr>
   <tr>
     <td>
