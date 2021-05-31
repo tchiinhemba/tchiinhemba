@@ -12,22 +12,6 @@
 </p>
 
 <div>
-<table>
-<tr>
-<td>
-  <p align="left">
-    Hi, I'm <strong>Eládio</strong> and I don't know </br>how to talk about myself. </br>
-    But, doing a little introduction,</br> this is my profile on GitHub.
-  </p>
-  </td>
-  <td>
-  <p align="end">
-      I really like to write code. </br>
-      For me, writing code works like </br> an escape, a way to let off steam!
-  </p>
-  </td>
-  </tr>
-  </table>
   </hr>
 </div>
 
@@ -36,6 +20,13 @@
       <img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eladioclaudio&theme=react-dark" />
   </a>
  </footer>
+
+ <p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eladioclaudio&theme=react&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
 </body>
 
 <p> 
