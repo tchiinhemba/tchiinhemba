@@ -30,9 +30,6 @@ For me, writing code works like </br> an escape, a way to let off steam!
 </body>
 
 <p> 
- <a  href="https://linkedin.com/in/eladioclaudio" target="_blank">
-  <img src="https://activity-graph.herokuapp.com/graph?username=eladioclaudio&theme=dracula">
- </a>
  <a href="https://www.instagram.com/eladio__claudio" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
  </a> 
