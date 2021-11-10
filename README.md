@@ -1,5 +1,4 @@
 
-<div>
 <section>
     <header>
         <h3 align="middle">Welcome to Eládio Cláudio's profile!
@@ -41,11 +40,10 @@
         </p>
     </div>
 </section>
-<section style="background-image:url(/assets/img/background.svg);">
+<section style="background-image:url(/assets/img/background.svg); height: 500px;">
     <div>
     </div>
     <div>
         <img width="50px" height="50px" src="./assets/svg/css.svg">
     </div>
 </section>
-</div>
