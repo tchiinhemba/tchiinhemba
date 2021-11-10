@@ -1,4 +1,6 @@
-
+<p>
+<img src="./assets/lotie/sun.gif" width="100">
+</p>
 <section>
     <header>
         <h3 align="middle">Welcome to Eládio Cláudio's profile!
@@ -40,10 +42,11 @@
         </p>
     </div>
 </section>
-<section style="background-image:url(/assets/img/background.svg); height: 500px;">
+<section>
     <div>
     </div>
-    <div>
+    <div align="right">
         <img width="50px" height="50px" src="./assets/svg/css.svg">
     </div>
 </section>
+<img src="./assets/lotie/hi3.gif">
