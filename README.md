@@ -1,7 +1,13 @@
+<style>
+    test {
+        color: blue;
+    }
+
+</style>
 <div>
 <section>
     <header>
-        <h3 align="middle">Welcome to Eládio Cláudio's profile!
+        <h3 class="test" align="middle">Welcome to Eládio Cláudio's profile!
             <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
         </h3>
     </header>
