@@ -37,15 +37,11 @@
             </p>
         </div>
         </section>
-
         <section>
             <div>
-                
             </div>
             <div>
                 <img width="50px" height="50px" src="./assets/css.svg">
             </div>
-
         </section>
-
 </body>
