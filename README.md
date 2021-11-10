@@ -1,3 +1,4 @@
+<div>
 <section>
     <header>
         <h3 align="middle">Welcome to Eládio Cláudio's profile!
@@ -46,3 +47,4 @@
         <img width="50px" height="50px" src="./ssets/css.svg">
     </div>
 </section>
+</div>
