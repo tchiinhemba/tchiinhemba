@@ -41,11 +41,11 @@
         </p>
     </div>
 </section>
-<section>
+<section style="background-image:url(/assets/img/background.svg);">
     <div>
     </div>
     <div>
-        <img width="50px" height="50px" src="./assets/css.svg">
+        <img width="50px" height="50px" src="./assets/svg/css.svg">
     </div>
 </section>
 </div>
