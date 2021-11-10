@@ -37,7 +37,7 @@
             </p>
         </div>
         </section>
-        ---
+        </hr>
         <section>
             <div>
             </div>
