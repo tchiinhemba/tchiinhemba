@@ -4,9 +4,9 @@
 </br>
 </br>
 </br>
-<h2 align="left">Hi, I'm Eládio Cláudio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
+<h1 align="left">Hi, Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <span align="left">
-Lorem ipsum dolor sit amet consectetur
+Technology lover, I'm a software developer,
 </br>
 adipisicing elit. 
 </br>
@@ -19,19 +19,17 @@ accusamus commodi neque asperiores at
 optio consectetur expedita, doloremque 
 </br>
 repudiandae. totam
-</br>
 </span>
 
-
-
-
-<section>
-
+<img src="./assets/img/wood.png">
 <p align="middle">
 <a herf="">
 <img src="https://readme-typing-svg.herokuapp.com?center=true&width=700&lines=Hi%2C+I'm+El%C3%A1dio+and+I+don't+know+how+to+talk+about+myself.;I'm+Software+Developer+for+1+year!;From+time+to+time%2C+I+write+a+few+articles+on+Medium.;I'm+currently+focused+on+Web+Development.;Specifically+MERN+Stack+and+MEAN+Stack.;I+have+also+focused+on+the+Vanilla+Development." />
 </a>
 </p>
+
+<section>
+
 </section>
 
 
@@ -70,7 +68,6 @@ repudiandae. totam
 <div>
 </div>
 <div>
-<img width="50px" height="50px" src="./assets/svg/css.svg">
 </div>
 </section>
 </div>
