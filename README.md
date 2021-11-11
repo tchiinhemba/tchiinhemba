@@ -1,7 +1,32 @@
+<h1 align="middle"><img src="./assets/lotie/sun.gif" width="150"></h1>
+<img src="./assets/lotie/eladioclaudio.gif" align="right" width="500">
+</br>
+</br>
+</br>
+</br>
+<h2 align="left">Hi, I'm Eládio Cláudio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
+<span align="left">
+Lorem ipsum dolor sit amet consectetur
+</br>
+adipisicing elit. 
+</br>
+Possimus ea explicabo veniam, eos cum  
+</br>
+tenetur ad facere accusantium doloribus 
+</br>
+accusamus commodi neque asperiores at 
+</br>
+optio consectetur expedita, doloremque 
+</br>
+repudiandae. totam
+</br>
+</span>
+
+
+
+
 <section>
-<h3 align="middle">Welcome to Eládio Cláudio's profile!
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+
 <p align="middle">
 <a herf="">
 <img src="https://readme-typing-svg.herokuapp.com?center=true&width=700&lines=Hi%2C+I'm+El%C3%A1dio+and+I+don't+know+how+to+talk+about+myself.;I'm+Software+Developer+for+1+year!;From+time+to+time%2C+I+write+a+few+articles+on+Medium.;I'm+currently+focused+on+Web+Development.;Specifically+MERN+Stack+and+MEAN+Stack.;I+have+also+focused+on+the+Vanilla+Development." />
@@ -40,11 +65,7 @@
 </br>
 </br>
 </br>
-<img src="./assets/lotie/eladioclaudio.gif" align="right" width="500">
-Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-Possimus ea explicabo veniam, eos cum optio consectetur expedita, 
-tenetur ad facere accusantium doloribus doloremque totam 
-accusamus commodi neque asperiores at repudiandae.
+
 <section>
 <div>
 </div>
