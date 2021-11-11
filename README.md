@@ -9,6 +9,8 @@
 </p>
 </section>
 
+
+
 <section>
 <div>
 
@@ -35,7 +37,14 @@
 </p>
 </div>
 </section>
-<section style="background-image:url(/assets/img/background.svg);">
+***
+</br>
+<img src="./assets/img/eladio.png" align="right" width="300">
+Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+Possimus ea explicabo veniam, eos cum optio consectetur expedita, 
+tenetur ad facere accusantium doloribus doloremque totam 
+accusamus commodi neque asperiores at repudiandae.
+<section>
 <div>
 </div>
 <div>
