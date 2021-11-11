@@ -37,9 +37,10 @@
 </p>
 </div>
 </section>
-***
 </br>
-<img src="./assets/img/eladio.png" align="right" width="300">
+</br>
+</br>
+<img src="./assets/lotie/eladioclaudio.gif" align="right" width="500">
 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
 Possimus ea explicabo veniam, eos cum optio consectetur expedita, 
 tenetur ad facere accusantium doloribus doloremque totam 
