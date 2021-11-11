@@ -1,4 +1,4 @@
-<h1 align="middle"><img src="./assets/lotie/sun.gif" width="150"></h1>
+<p align="middle"><img src="./assets/lotie/sun.gif" width="150"></p>
 <img src="./assets/lotie/eladioclaudio.gif" align="right" width="500">
 </br>
 </br>
