@@ -32,6 +32,12 @@ I work on freelance projects and have gained some experience in them, I'm also p
 </br>
 </br>
 
+<table border="0" bgcolor="#ffffff">
+<tr>
+<th>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eladioclaudio&theme=react&hide_border=true" width="500"/>
+</th>
+<th>
 <h3 align="right">Some Techs</h3>
 <div align="right">
 Hi, I'm Eládio and I don't know how 
@@ -48,10 +54,9 @@ Specifically MERN Stack and MEAN Stack.
 I have also focused on the Vanilla Development
 </br>
 </div>
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eladioclaudio&theme=react&hide_border=true" width="300"/>
-</p>
-
+</th>
+</tr>
+</table>
 
 <section>
 
