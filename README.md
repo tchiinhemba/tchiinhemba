@@ -1,32 +1,37 @@
 <p align="middle"><img src="./assets/lotie/sun.gif" width="150"></p>
-<img src="./assets/lotie/eladioclaudio.gif" align="right" width="500">
+<img src="./assets/lotie/eladioclaudio.gif" align="right" width="490">
 </br>
 </br>
 </br>
 </br>
 <h1 align="left">Hi, Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <span align="left">
-Technology lover, I'm a software developer,
+Technology lover from an early age
 </br>
-adipisicing elit. 
+I am a dreamy young Angolan 🇦🇴.
 </br>
-Possimus ea explicabo veniam, eos cum  
+I love to learn new things.
 </br>
-tenetur ad facere accusantium doloribus 
+I really enjoy learning new things 
 </br>
-accusamus commodi neque asperiores at 
+and making new friends.
 </br>
-optio consectetur expedita, doloremque 
-</br>
-repudiandae. totam
+Feel free to get in touch with me.
 <img src="./assets/img/art.png" width="100%">
 </span>
 
+</br>
+</br>
+</br>
 <p align="middle">
-<a herf="">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&width=700&lines=Hi%2C+I'm+El%C3%A1dio+and+I+don't+know+how+to+talk+about+myself.;I'm+Software+Developer+for+1+year!;From+time+to+time%2C+I+write+a+few+articles+on+Medium.;I'm+currently+focused+on+Web+Development.;Specifically+MERN+Stack+and+MEAN+Stack.;I+have+also+focused+on+the+Vanilla+Development." />
-</a>
+Hi, I'm Eládio and I don't know how to talk about myself.
+I'm Software Developer for 1 year!
+From time to time, I write a few articles on Medium.
+I'm currently focused on Web Development.
+Specifically MERN Stack and MEAN Stack.
+I have also focused on the Vanilla Development
 </p>
+
 
 <section>
 
