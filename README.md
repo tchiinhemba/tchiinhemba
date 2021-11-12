@@ -47,6 +47,7 @@ I work on freelance projects and have gained some experience in them, I'm also p
 <section>
 <p align="middle">
 <img src="./assets/lotie/car.gif">
+running in pursuit of my goals
 </p>
 </section>
 
