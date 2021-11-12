@@ -59,7 +59,7 @@ I work on freelance projects and have gained some experience in them, I'm also p
 </br>
 
 <section>
-<p align="middle"><img src="./assets/font/Statistics.svg"></p>
+<p align="middle"><img src="./assets/font/statistics.svg"></p>
 
 <p align="middle">
 Below you can see some statistics, which bring you the time 
@@ -92,7 +92,7 @@ All in real time.
 
 
 <section>
-<p align="middle"><img src="./assets/font/Technologies.svg"></p>
+<p align="middle"><img src="./assets/font/technologies.svg"></p>
 <p align="middle">
 At the moment I'm not only studying, but I've also been working with different technologies.
 </br> 
@@ -119,7 +119,7 @@ even if they involve learning a new technology.
 
 
 <section>
-<p align="middle"><img src="./assets/font/SchoolLife.svg"></p>
+<p align="middle"><img src="./assets/font/schoollife.svg"></p>
 <img src="./assets/lotie/pc.gif" width="400" align="right">
 </br>
 </br>
@@ -179,6 +179,6 @@ I think together we can build a better world!
 
 
 <footer>
-<h2 align="middle">Thank You!!!</h2>
+<p align="middle"><img src="./assets/font/thank.svg"></p>
 <img src="./assets/svg/techs/docker.svg">
 </footer>
