@@ -39,6 +39,17 @@ I work on freelance projects and have gained some experience in them, I'm also p
 </br>
 </br>
 
-<h3 align="right">Some Techs</h3>
+<h2 align="right">Some Techs and Stats</h2>
+<p align="right">
+Below you can see some technologies that I have been using in my daily life.
+</p>
+<img src="./assets/lotie/clock.gif" align="right" width="300">
+</br>
+</br>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=eladioclaudio&layout=compact&theme=github_dark" width="500">
+
+</br>
+</br>
+</br>
+</br>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=eladioclaudio&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" align="right" width="400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladioclaudio&layout=compact">
