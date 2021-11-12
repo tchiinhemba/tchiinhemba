@@ -84,6 +84,8 @@ code, but also the language. All in real time.
 </br>
 </br>
 
+
+<section>
 <p align="middle"><h2 align="middle">Technologies</h2></p>
 <p align="middle">
 At the moment I'm not only studying, but I've also been working with different technologies.
@@ -99,6 +101,8 @@ even if they involve learning a new technology.
 <img src="./assets/lotie/techs/all.gif">
 </p>
 
+</section>
+
 </br>
 </br>
 </br>
@@ -108,6 +112,7 @@ even if they involve learning a new technology.
 </br>
 
 
+<section>
 <h2 align="middle">Scholl Life</h2>
 <img src="./assets/lotie/pc.gif" width="400" align="right">
 </br>
@@ -135,6 +140,7 @@ invention called the Internet.
 It's where I've been studying so far.
 </br>
 </p>
+</section>
 
 </br>
 </br>
@@ -143,6 +149,8 @@ It's where I've been studying so far.
 </br>
 </br>
 
+
+<section>
 
 <div align="middle">
 I think together we can build a better world!
@@ -150,6 +158,7 @@ I think together we can build a better world!
 <p align="middle">
 <img src="./assets/lotie/planet.gif" width="100">
 </p>
+</section>
 
 
 <footer>
