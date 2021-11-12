@@ -119,7 +119,7 @@ even if they involve learning a new technology.
 
 
 <section>
-<h2 align="middle"><img src="./assets/font/SchoolLife.svg"></h2>
+<p align="middle"><img src="./assets/font/SchoolLife.svg"></p>
 <img src="./assets/lotie/pc.gif" width="400" align="right">
 </br>
 </br>
