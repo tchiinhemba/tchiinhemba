@@ -1,3 +1,8 @@
+
+<style type="text/css">
+p {color: red;}
+</style>
+
 <section>
 <p align="middle"><img src="./assets/lotie/sun.gif" width="150"></p>
 <img src="./assets/lotie/eladioclaudio.gif" align="right" width="490">
@@ -55,7 +60,7 @@ I work on freelance projects and have gained some experience in them, I'm also p
 <strong></strong>
 <section>
 <p align="middle">
-<font size="6">See some statistics</font>
+<p size="6">See some statistics</p>
 </p>
 
 <p align="middle">
