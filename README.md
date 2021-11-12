@@ -39,9 +39,8 @@ I work on freelance projects and have gained some experience in them, I'm also p
 </br>
 </br>
 
-<p align="right">
+<img src="./assets/svg/css.svg" width="10">
 <h2 align="right">See some statistics</h2>
-</p>
 <p align="right">
 Below you can see some statistics, which bring you the time 
 </br>
