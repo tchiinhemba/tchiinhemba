@@ -1,3 +1,4 @@
+<section>
 <p align="middle"><img src="./assets/lotie/sun.gif" width="150"></p>
 <img src="./assets/lotie/eladioclaudio.gif" align="right" width="490">
 </br>
@@ -35,6 +36,7 @@ Focused on building a successful career, I have been looking for experience thro
 </br>
 I work on freelance projects and have gained some experience in them, I'm also part of some communities, and these communities have contributed a lot not only to mine, but also to the careers of many software developers like me...
 </p>
+</section>
 </br>
 </br>
 </br>
@@ -46,7 +48,9 @@ I work on freelance projects and have gained some experience in them, I'm also p
 </br>
 </br>
 
+<p align="middle"><img src="./assets/lotie/clock.gif" width="30"></p>
 <h2 align="middle">See some statistics</h2>
+
 <p align="middle">
 Below you can see some statistics, which bring you the time 
 </br>
@@ -56,10 +60,13 @@ These statistics bring you not only the time I spend writing
 </br>
 code, but also the language. All in real time.
 </p>
-<img src="./assets/lotie/clock.gif" align="right" width="300">
+
 </br>
 </br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=eladioclaudio&layout=compact&theme=github_dark" width="500">
+
+<p align="middle">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=eladioclaudio&layout=compact&theme=github_dark" width="500" align="middle">
+</p>
 
 </br>
 </br>
