@@ -17,6 +17,13 @@ I really enjoy learning new things
 and making new friends.
 </br>
 Feel free to get in touch with me.
+</br>
+</br>
+<p>
+<a href="https://www.linkedin.com/in/eladioclaudio/" target="_blank"><img src="./assets/svg/social/linkedin.svg" width="20"></a>
+<a href="https://www.instagram.com/elladioclaudio/" target="_blank"><img src="./assets/svg/social/instagram.svg" width="20"></a>
+<a href="mailto:eladioclaudio@outlook.com"><img src="./assets/svg/social/gmail.svg" width="20"></a>
+</p>
 <img src="./assets/img/art.png" width="100%">
 </span>
 
@@ -32,45 +39,13 @@ I work on freelance projects and have gained some experience in them, I'm also p
 </br>
 </br>
 
-<table border="0" bgcolor="#ffffff">
-<tr>
-<th>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eladioclaudio&theme=react&hide_border=true" width="500"/>
-</th>
-<th>
 <h3 align="right">Some Techs</h3>
-<div align="right">
-Hi, I'm Eládio and I don't know how 
-</br>
-to talk about myself.
-I'm Software Developer for 1 year!
-</br>
-From time to time, I write a few articles on Medium.
-</br>
-I'm currently focused on Web Development.
-</br>
-Specifically MERN Stack and MEAN Stack.
-</br>
-I have also focused on the Vanilla Development
-</br>
-</div>
-</th>
-</tr>
-</table>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=eladioclaudio&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" align="right" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladioclaudio&layout=compact">
 
-<section>
-
-</section>
-
-
-
-<section>
 <div>
 
 <p align="center">
-<a href="">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eladioclaudio&theme=react&hide_border=true" />
-</a>
 </p>
 </div>
 <div>
