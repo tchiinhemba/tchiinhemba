@@ -95,7 +95,7 @@ All in real time.
 
 
 <section>
-<p align="middle"><h2 align="middle">Technologies</h2></p>
+<h2 align="middle"><img src="./assets/font/Technologies.svg"></h2>
 <p align="middle">
 At the moment I'm not only studying, but I've also been working with different technologies.
 </br> 
@@ -122,7 +122,7 @@ even if they involve learning a new technology.
 
 
 <section>
-<h2 align="middle">Scholl Life</h2>
+<h2 align="middle"><img src="./assets/font/SchoolLife.svg"></h2>
 <img src="./assets/lotie/pc.gif" width="400" align="right">
 </br>
 </br>
