@@ -1,6 +1,4 @@
 
-<style type="text/css">#test{color: red;}</style>
-
 <section>
 <p align="middle"><img src="./assets/lotie/sun.gif" width="150"></p>
 <img src="./assets/lotie/eladioclaudio.gif" align="right" width="490">
