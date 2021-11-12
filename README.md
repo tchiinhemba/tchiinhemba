@@ -90,4 +90,5 @@ I think together we can build a better world!
 
 <footer>
 <h2 align="middle">Thank You!!!</h2>
+<img src="./assets/svg/techs/docker.svg">
 </footer>
