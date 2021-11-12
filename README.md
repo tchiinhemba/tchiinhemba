@@ -38,29 +38,32 @@ I work on freelance projects and have gained some experience in them, I'm also p
 </p>
 </section>
 
-
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
 <section>
-<p align="middle"><img src="./assets/lotie/clock.gif" width="30"></p>
-<h2 align="middle">See some statistics</h2>
+<p align="middle">
+<img src="./assets/lotie/car.gif">
+</p>
+</section>
+
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<strong></strong>
+<section>
+<p align="middle"><strong>See some statistics</strong></p>
 
 <p align="middle">
-Below you can see some statistics, which bring you the time I spend writing code, 
+Below you can see some statistics, which bring you the time 
 </br>
-this relative to the last 7 days...These statistics bring you not only
+I spend writing code, this relative to the last 7 days...These statistics bring you not only
 </br>
-the time I spend writing code, but also the language. All in real time.
+the time I spend writing code, but also the language. 
+</br>
+All in real time.
 </p>
 
 </br>
@@ -146,8 +149,11 @@ It's where I've been studying so far.
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
 
-
+<!-- 
 <section>
 
 <div align="middle">
@@ -156,7 +162,15 @@ I think together we can build a better world!
 <p align="middle">
 <img src="./assets/lotie/planet.gif" width="100">
 </p>
-</section>
+</section> -->
+
+<!-- </br>
+</br>
+</br>
+</br>
+</br>
+</br> -->
+
 
 
 <footer>
