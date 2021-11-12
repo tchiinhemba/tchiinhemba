@@ -19,7 +19,7 @@ accusamus commodi neque asperiores at
 optio consectetur expedita, doloremque 
 </br>
 repudiandae. totam
-<img src="./assets/svg/art.svg" width="100%">
+<img src="./assets/img/art.png" width="100%">
 </span>
 
 <p align="middle">
