@@ -39,6 +39,11 @@ I work on freelance projects and have gained some experience in them, I'm also p
 </p>
 </section>
 
+</br>
+</br>
+</br>
+</br>
+
 <section>
 <p align="middle">
 <img src="./assets/lotie/car.gif">
