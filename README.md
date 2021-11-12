@@ -57,5 +57,37 @@ code, but also the language. All in real time.
 </br>
 </br>
 </br>
-</br>
 
+<p align="middle"><h2 align="middle">Technologies</h2></p>
+<p align="middle">
+At the moment I'm not only studying, but I've also been working with different technologies.
+</br> 
+I have worked 90% of the time as a frontend developer. Specifically working with Angular 2 and Reactjs...
+</br>
+I like to think outside the box, for this reason I am always open to new opportunities, 
+</br>
+even if they involve learning a new technology.
+</p>
+
+<p align="middle">
+<img src="./assets/lotie/techs/all.gif">
+</p>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+<div align="right">
+I think together we can build a better world!
+</div>
+<p align="">
+<img src="./assets/lotie/planet.gif">
+</p>
+
+
+<footer>
+<h2 align="middle">Thank You!!!</h2>
+</footer>
