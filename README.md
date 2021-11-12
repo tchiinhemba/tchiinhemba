@@ -54,7 +54,9 @@ I work on freelance projects and have gained some experience in them, I'm also p
 
 <strong></strong>
 <section>
-<p align="middle"><strong>See some statistics</strong></p>
+<p align="middle">
+<font size="6"><strong>See some statistics</strong></font>
+</p>
 
 <p align="middle">
 Below you can see some statistics, which bring you the time 
