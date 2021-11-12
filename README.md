@@ -22,7 +22,7 @@ Feel free to get in touch with me.
 <p>
 <a href="https://www.linkedin.com/in/eladioclaudio/" target="_blank"><img src="./assets/svg/social/linkedin.svg" width="20"></a>
 <a href="https://www.instagram.com/elladioclaudio/" target="_blank"><img src="./assets/svg/social/instagram.svg" width="20"></a>
-<a href="mailto:eladioclaudio@outlook.com"><img src="./assets/svg/social/gmail.svg" width="20"></a>
+<a href="https://api.whatsapp.com/send?l=pt_AO&phone=+244931509802&text=Hello Eládio, can we have a chat?" target="_blank"><img src="./assets/svg/social/whatsapp.svg" width="20"></a>
 </p>
 <img src="./assets/img/art.png" width="100%">
 </span>
