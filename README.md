@@ -38,9 +38,16 @@ I work on freelance projects and have gained some experience in them, I'm also p
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
-<h2 align="right">See some statistics</h2>
-<p align="right">
+<h2 align="middle">See some statistics</h2>
+<p align="middle">
 Below you can see some statistics, which bring you the time 
 </br>
 I spend writing code, this relative to the last 7 days...
@@ -54,6 +61,12 @@ code, but also the language. All in real time.
 </br>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eladioclaudio&layout=compact&theme=github_dark" width="500">
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 </br>
