@@ -24,13 +24,17 @@ Feel free to get in touch with me.
 </br>
 </br>
 <p align="middle">
+Focused on building a successful career, I have been looking for experience through open-source projects...
+</br>
+I work on freelance projects and have gained some experience in them, I'm also part of some communities, and these communities have contributed a lot not only to mine, but also to the careers of many software developers like me...
+</p>
+
 Hi, I'm Eládio and I don't know how to talk about myself.
 I'm Software Developer for 1 year!
 From time to time, I write a few articles on Medium.
 I'm currently focused on Web Development.
 Specifically MERN Stack and MEAN Stack.
 I have also focused on the Vanilla Development
-</p>
 
 
 <section>
