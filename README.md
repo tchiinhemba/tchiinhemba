@@ -56,7 +56,7 @@ I work on freelance projects and have gained some experience in them, I'm also p
 <strong></strong>
 <section>
 <p align="middle">
-<p size="6" id="test">See some statistics</p>
+<strong >See some statistics</strong>
 </p>
 
 <p align="middle">
