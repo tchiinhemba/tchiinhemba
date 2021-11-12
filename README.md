@@ -58,11 +58,8 @@ I work on freelance projects and have gained some experience in them, I'm also p
 </br>
 </br>
 
-<strong></strong>
 <section>
-<p align="middle">
-<strong >See some statistics</strong>
-</p>
+<p align="middle"><img src="./assets/font/Statistics.svg"></p>
 
 <p align="middle">
 Below you can see some statistics, which bring you the time 
@@ -95,7 +92,7 @@ All in real time.
 
 
 <section>
-<h2 align="middle"><img src="./assets/font/Technologies.svg"></h2>
+<p align="middle"><img src="./assets/font/Technologies.svg"></p>
 <p align="middle">
 At the moment I'm not only studying, but I've also been working with different technologies.
 </br> 
