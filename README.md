@@ -28,13 +28,29 @@ Focused on building a successful career, I have been looking for experience thro
 </br>
 I work on freelance projects and have gained some experience in them, I'm also part of some communities, and these communities have contributed a lot not only to mine, but also to the careers of many software developers like me...
 </p>
+</br>
+</br>
+</br>
 
-Hi, I'm Eládio and I don't know how to talk about myself.
+<h3 align="right">Some Techs</h3>
+<div align="right">
+Hi, I'm Eládio and I don't know how 
+</br>
+to talk about myself.
 I'm Software Developer for 1 year!
+</br>
 From time to time, I write a few articles on Medium.
+</br>
 I'm currently focused on Web Development.
+</br>
 Specifically MERN Stack and MEAN Stack.
+</br>
 I have also focused on the Vanilla Development
+</br>
+</div>
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eladioclaudio&theme=react&hide_border=true" width="300"/>
+</p>
 
 
 <section>
