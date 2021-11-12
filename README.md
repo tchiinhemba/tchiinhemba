@@ -19,9 +19,9 @@ accusamus commodi neque asperiores at
 optio consectetur expedita, doloremque 
 </br>
 repudiandae. totam
+<img src="./assets/svg/art.svg" width="100%">
 </span>
 
-<img src="./assets/img/wood.png">
 <p align="middle">
 <a herf="">
 <img src="https://readme-typing-svg.herokuapp.com?center=true&width=700&lines=Hi%2C+I'm+El%C3%A1dio+and+I+don't+know+how+to+talk+about+myself.;I'm+Software+Developer+for+1+year!;From+time+to+time%2C+I+write+a+few+articles+on+Medium.;I'm+currently+focused+on+Web+Development.;Specifically+MERN+Stack+and+MEAN+Stack.;I+have+also+focused+on+the+Vanilla+Development." />
@@ -64,10 +64,4 @@ repudiandae. totam
 </br>
 </br>
 
-<section>
-<div>
-</div>
-<div>
-</div>
-</section>
 </div>
