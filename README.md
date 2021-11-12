@@ -1,7 +1,5 @@
 
-<style type="text/css">
-#test {color: red;}
-</style>
+<style type="text/css">#test{color: red;}</style>
 
 <section>
 <p align="middle"><img src="./assets/lotie/sun.gif" width="150"></p>
