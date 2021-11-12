@@ -80,11 +80,49 @@ even if they involve learning a new technology.
 </br>
 </br>
 </br>
-<div align="right">
+
+
+<h2 align="middle">Scholl Life</h2>
+<img src="./assets/lotie/pc.gif" width="400" align="right">
+</br>
+</br>
+</br>
+<p>
+Fortunately or unfortunately, 
+</br>
+I haven't attended any university so far. 
+</br>
+A long time ago I finished high school in
+</br>
+the Industrial Electronics and Automation course, 
+</br>
+where I already saw some programming 
+</br>
+concepts with C++ language.
+</br>
+Since then, everything I know about 
+</br>
+programming is the result of this wonderful 
+</br>
+invention called the Internet. 
+</br>
+It's where I've been studying so far.
+</br>
+</p>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+<div align="middle">
 I think together we can build a better world!
 </div>
-<p align="">
-<img src="./assets/lotie/planet.gif">
+<p align="middle">
+<img src="./assets/lotie/planet.gif" width="100">
 </p>
 
 
