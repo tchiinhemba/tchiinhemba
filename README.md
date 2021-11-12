@@ -39,9 +39,15 @@ I work on freelance projects and have gained some experience in them, I'm also p
 </br>
 </br>
 
-<h2 align="right">Some Techs and Stats</h2>
+<h2 align="right">See some statistics</h2>
 <p align="right">
-Below you can see some technologies that I have been using in my daily life.
+Below you can see some statistics, which bring you the time 
+</br>
+I spend writing code, this relative to the last 7 days...
+</br>
+These statistics bring you not only the time I spend writing 
+</br>
+code, but also the language. All in real time.
 </p>
 <img src="./assets/lotie/clock.gif" align="right" width="300">
 </br>
@@ -52,4 +58,3 @@ Below you can see some technologies that I have been using in my daily life.
 </br>
 </br>
 </br>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=eladioclaudio&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" align="right" width="400">
