@@ -6,7 +6,7 @@
 </br>
 </br>
 </br>
-<h1 align="left">Hi, Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="left"><img src="./assets/font/hi.svg"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <span align="left">
 Technology lover from an early age
 </br>
