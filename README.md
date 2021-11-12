@@ -56,13 +56,11 @@ I work on freelance projects and have gained some experience in them, I'm also p
 <h2 align="middle">See some statistics</h2>
 
 <p align="middle">
-Below you can see some statistics, which bring you the time 
+Below you can see some statistics, which bring you the time I spend writing code, 
 </br>
-I spend writing code, this relative to the last 7 days...
+this relative to the last 7 days...These statistics bring you not only
 </br>
-These statistics bring you not only the time I spend writing 
-</br>
-code, but also the language. All in real time.
+the time I spend writing code, but also the language. All in real time.
 </p>
 
 </br>
