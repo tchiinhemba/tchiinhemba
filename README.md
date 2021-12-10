@@ -1,7 +1,6 @@
-<body>
 <header>
-<h2 align="middle"><img src="./assets/font/hi.svg" width="50"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+<p align="middle"><img src="./assets/font/hi.svg"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</p>
 </header>
 <main>
  <section>
