@@ -1,5 +1,5 @@
 <header>
-<p align="middle"><img src="./assets/font/hi.svg" width="200"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<p align="middle"><img src="./assets/font/hi.svg" width="300"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </p>
 </header>
 <main>
