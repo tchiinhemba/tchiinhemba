@@ -30,4 +30,4 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 </p>
-<p align="middle"><a href="./extend/README.md">Read More</a></p>
+<p align="middle"><a href="./extend/README.md" target="_blank">Read More</a></p>

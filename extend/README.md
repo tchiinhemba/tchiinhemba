@@ -63,7 +63,6 @@ Running in pursuit of my goals
 
 <section>
 <p align="middle"><img src="../assets/font/statistics.svg"></p>
-
 <p align="middle">
 Below you can see some statistics, which bring you the time 
 </br>
