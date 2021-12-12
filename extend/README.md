@@ -1,12 +1,12 @@
 
 <section>
-<p align="middle"><img src="../../assets/lotie/sun.gif" width="150"></p>
-<img src="../../assets/lotie/eladioclaudio.gif" align="right" width="490">
+<p align="middle"><img src="../assets/lotie/sun.gif" width="150"></p>
+<img src="../assets/lotie/eladioclaudio.gif" align="right" width="490">
 </br>
 </br>
 </br>
 </br>
-<p align="left"><img src="../../assets/font/hi.svg"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></p>
+<p align="left"><img src="../assets/font/hi.svg"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></p>
 <span align="left">
 Technology lover from an early age
 </br>
@@ -22,12 +22,12 @@ Feel free to get in touch with me.
 </br>
 </br>
 <p>
-<a href="https://www.linkedin.com/in/eladioclaudio/" target="_blank"><img src="../../assets/svg/social/linkedin.svg" width="20"></a>
-<a href="https://www.instagram.com/elladioclaudio/" target="_blank"><img src="../../assets/svg/social/instagram.svg" width="20"></a>
-<a href="https://api.whatsapp.com/send?l=pt_AO&phone=+244931509802&text=Hello Eládio, can we have a chat?" target="_blank"><img src="../../assets/svg/social/whatsapp.svg" width="20"></a>
+<a href="https://www.linkedin.com/in/eladioclaudio/" target="_blank"><img src="../assets/svg/social/linkedin.svg" width="20"></a>
+<a href="https://www.instagram.com/elladioclaudio/" target="_blank"><img src="../assets/svg/social/instagram.svg" width="20"></a>
+<a href="https://api.whatsapp.com/send?l=pt_AO&phone=+244931509802&text=Hello Eládio, can we have a chat?" target="_blank"><img src="../assets/svg/social/whatsapp.svg" width="20"></a>
 <a><img src="https://visitor-badge.glitch.me/badge?page_id=eladioclaudio.visitor-badge"></a>
 </p>
-<img src="../../assets/img/art.png" width="100%">
+<img src="../assets/img/art.png" width="100%">
 </span>
 
 </br>
@@ -47,7 +47,7 @@ I work on freelance projects and have gained some experience in them, I'm also p
 
 <section>
 <p align="middle">
-<img src="../../assets/lotie/car.gif">
+<img src="../assets/lotie/car.gif">
 </br>
 Running in pursuit of my goals
 </p>
@@ -62,8 +62,7 @@ Running in pursuit of my goals
 </br>
 
 <section>
-<p align="middle"><img src="../../assets/font/statistics.svg"></p>
-
+<p align="middle"><img src="../assets/font/statistics.svg"></p>
 <p align="middle">
 Below you can see some statistics, which bring you the time 
 </br>
@@ -95,7 +94,7 @@ All in real time.
 
 
 <section>
-<p align="middle"><img src="../../assets/font/technologies.svg"></p>
+<p align="middle"><img src="../assets/font/technologies.svg"></p>
 <p align="middle">
 At the moment I'm not only studying, but I've also been working with different technologies.
 </br> 
@@ -107,7 +106,7 @@ even if they involve learning a new technology.
 </p>
 
 <p align="middle">
-<img src="../../assets/lotie/techs/all.gif">
+<img src="../assets/lotie/techs/all.gif">
 </p>
 
 </section>
@@ -122,8 +121,8 @@ even if they involve learning a new technology.
 
 
 <section>
-<p align="middle"><img src="../../assets/font/schoollife.svg"></p>
-<img src="../../assets/lotie/pc.gif" width="400" align="right">
+<p align="middle"><img src="../assets/font/schoollife.svg"></p>
+<img src="../assets/lotie/pc.gif" width="400" align="right">
 </br>
 </br>
 </br>
@@ -168,7 +167,7 @@ It's where I've been studying so far.
 I think together we can build a better world!
 </div>
 <p align="middle">
-<img src="../../assets/lotie/planet.gif" width="100">
+<img src="../assets/lotie/planet.gif" width="100">
 </p>
 </section> -->
 
@@ -182,6 +181,6 @@ I think together we can build a better world!
 
 
 <footer>
-<p align="middle"><img src="../../assets/font/thank.svg"></p>
-<img src="../../assets/svg/techs/docker.svg">
+<p align="middle"><img src="../assets/font/thank.svg"></p>
+<img src="../assets/svg/techs/docker.svg">
 </footer>
