@@ -4,8 +4,8 @@ I'm Eladio Claudio,  I'm a Software Developer as a freelancer, and I've been a t
 
 I love contributing to the community with [blog posts](https://medium.com/@eladioclaudio).
 
-[![Linkedin: eladio](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eladioclaudio/)](https://www.linkedin.com/in/eladioclaudio/)
-[![Instagram: eladio](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/eladio_claudio)](https://www.instagram.com/eladio_claudio)
+[![Linkedin: eladio](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eladioclaudio/)](https://www.linkedin.com/in/eladioclaudio/){:target="_blank"}
+[![Instagram: eladio](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/eladio_claudio)](https://www.instagram.com/eladio_claudio){:target="_blank"}
 
 ## ⚡ Technologies
 
