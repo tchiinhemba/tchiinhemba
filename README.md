@@ -35,5 +35,4 @@ These are some of the technologies and tools that I work with:
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Pop OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=Pop!_OS&logoColor=white)
-![Storybook](https://img.shields.io/badge/storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 
