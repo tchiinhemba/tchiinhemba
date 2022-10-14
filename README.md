@@ -2,7 +2,7 @@
 
 I'm Eladio Tchiinhemba,  I'm a Software Developer at [Grupo Zwela](https://grupozwela.com), and I've been a technology enthusiast since an early age. I'm from Angola, and I'm currently living in beautiful Luanda.
 
-I love contributing to the community with [blog posts](https://medium.com/@eladioclaudio).
+I love contributing to the community with [blog posts](https://tchiinhemba.medium.com).
 
 [![Linkedin: eladio](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eladioclaudio/)](https://www.linkedin.com/in/eladioclaudio/)
 [![Instagram: eladio](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/eladio_claudio)](https://www.instagram.com/eladio_claudio)
