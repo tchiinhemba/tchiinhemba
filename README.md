@@ -15,7 +15,7 @@ These are some of the technologies and tools that I work with:
 <a href="https://nodejs.org/en/docs/">![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)</a>
 <a href="https://html.spec.whatwg.org/multipage/">![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)</a>
 <a href="https://www.w3.org/Style/CSS/specs.en.html">![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)</a>
-<a href="">![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)</a>
+<a href="https://sass-lang.com/documentation/">![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)</a>
 <a href="">![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)</a>
 <a href="">![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)</a>
 <a href="">![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)</a>
