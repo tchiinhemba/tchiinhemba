@@ -20,7 +20,7 @@ These are some of the technologies and tools that I work with:
 <a href="https://chakra-ui.com/getting-started">![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)</a>
 <a href="https://styled-components.com/">![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)</a>
 <a href="https://www.typescriptlang.org/docs/">![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)</a>
-<a href="">![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)</a>
+<a href="https://beta.reactjs.org/">![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)</a>
 <a href="">![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)</a>
 <a href="">![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)</a>
 <a href="">![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)</a>
