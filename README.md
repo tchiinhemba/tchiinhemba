@@ -26,7 +26,7 @@ These are some of the technologies and tools that I work with:
 <a href="https://webpack.js.org/guides/getting-started/">![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)</a>
 <a href="https://www.git-scm.com/doc">![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)</a>
 <a href="https://docs.github.com/en">![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)</a>
-<a href="">![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)</a>
+<a href="https://bitbucket.org/product/?&aceid=&adposition=&adgroup=92266799277&campaign=9128560794&creative=414680964362&device=c&keyword=%2Bbitbucket&matchtype=b&network=g&placement=&ds_kids=p51241782910&ds_e=GOOGLE&ds_eid=700000001551985&ds_e1=GOOGLE&gclid=Cj0KCQjw48OaBhDWARIsAMd966DV3n-u6JZBWvszoNzUFPN4tH4G3CcOdY653mX7jmcVYoNuH5gLSWEaAt8UEALw_wcB&gclsrc=aw.ds">![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)</a>
 <a href="">![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)</a>
 <a href="">![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)</a>
 <a href="">![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)</a>
