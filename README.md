@@ -11,27 +11,27 @@ I love contributing to the community with [blog posts](https://tchiinhemba.mediu
 
 These are some of the technologies and tools that I work with:
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)</a>
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Pop OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=Pop!_OS&logoColor=white)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)</a>
+<a href="https://nodejs.org/en/docs/">![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)</a>
+<a href="https://html.spec.whatwg.org/multipage/">![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)</a>
+<a href="https://www.w3.org/Style/CSS/specs.en.html">![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)</a>
+<a href="https://sass-lang.com/documentation/">![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)</a>
+<a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/">![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)</a>
+<a href="https://chakra-ui.com/getting-started">![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)</a>
+<a href="">![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)</a>
+<a href="">![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)</a>
+<a href="">![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)</a>
+<a href="">![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)</a>
+<a href="">![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)</a>
+<a href="">![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)</a>
+<a href="">![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)</a>
+<a href="">![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)</a>
+<a href="">![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)</a>
+<a href="">![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)</a>
+<a href="">![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)</a>
+<a href="">![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)</a>
+<a href="">![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)</a>
+<a href="">![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)</a>
+<a href="">![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)</a>
+<a href="">![Pop OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=Pop!_OS&logoColor=white)</a>
 
