@@ -18,7 +18,7 @@ These are some of the technologies and tools that I work with:
 <a href="https://sass-lang.com/documentation/">![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)</a>
 <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/">![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)</a>
 <a href="https://chakra-ui.com/getting-started">![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)</a>
-<a href="">![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)</a>
+<a href="https://styled-components.com/">![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)</a>
 <a href="">![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)</a>
 <a href="">![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)</a>
 <a href="">![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)</a>
