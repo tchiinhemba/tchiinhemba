@@ -24,7 +24,7 @@ These are some of the technologies and tools that I work with:
 <a href="https://www.mongodb.com/docs/">![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)</a>
 <a href="https://firebase.google.com/docs?gclid=Cj0KCQjw48OaBhDWARIsAMd966AYvKx0bjSXotyByWQ6-iEYNQTlSYQkLebygfdkd2IszJocMmr1do0aAguFEALw_wcB&gclsrc=aw.ds">![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)</a>
 <a href="https://webpack.js.org/guides/getting-started/">![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)</a>
-<a href="">![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)</a>
+<a href="https://www.git-scm.com/doc">![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)</a>
 <a href="">![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)</a>
 <a href="">![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)</a>
 <a href="">![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)</a>
