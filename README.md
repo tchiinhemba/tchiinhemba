@@ -22,7 +22,7 @@ These are some of the technologies and tools that I work with:
 <a href="https://www.typescriptlang.org/docs/">![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)</a>
 <a href="https://beta.reactjs.org/">![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)</a>
 <a href="https://www.mongodb.com/docs/">![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)</a>
-<a href="">![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)</a>
+<a href="https://firebase.google.com/docs?gclid=Cj0KCQjw48OaBhDWARIsAMd966AYvKx0bjSXotyByWQ6-iEYNQTlSYQkLebygfdkd2IszJocMmr1do0aAguFEALw_wcB&gclsrc=aw.ds">![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)</a>
 <a href="">![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)</a>
 <a href="">![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)</a>
 <a href="">![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)</a>
