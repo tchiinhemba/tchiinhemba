@@ -30,7 +30,7 @@ These are some of the technologies and tools that I work with:
 <a href="https://confluence.atlassian.com/jira">![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)</a>
 <a href="https://code.visualstudio.com/docs">![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)</a>
 <a href="https://devcenter.heroku.com/categories/reference">![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)</a>
-<a href="">![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)</a>
+<a href="https://vercel.com/docs">![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)</a>
 <a href="">![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)</a>
 <a href="">![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)</a>
 <a href="">![Pop OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=Pop!_OS&logoColor=white)</a>
