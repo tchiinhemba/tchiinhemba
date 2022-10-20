@@ -28,7 +28,7 @@ These are some of the technologies and tools that I work with:
 <a href="https://docs.github.com/en">![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)</a>
 <a href="https://bitbucket.org/product/?&aceid=&adposition=&adgroup=92266799277&campaign=9128560794&creative=414680964362&device=c&keyword=%2Bbitbucket&matchtype=b&network=g&placement=&ds_kids=p51241782910&ds_e=GOOGLE&ds_eid=700000001551985&ds_e1=GOOGLE&gclid=Cj0KCQjw48OaBhDWARIsAMd966DV3n-u6JZBWvszoNzUFPN4tH4G3CcOdY653mX7jmcVYoNuH5gLSWEaAt8UEALw_wcB&gclsrc=aw.ds">![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)</a>
 <a href="https://confluence.atlassian.com/jira">![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)</a>
-<a href="">![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)</a>
+<a href="https://code.visualstudio.com/docs">![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)</a>
 <a href="">![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)</a>
 <a href="">![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)</a>
 <a href="">![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)</a>
