@@ -10,6 +10,9 @@ I love contributing to the community with [blog posts](https://www.linkedin.com/
 
 ## ⚡ Technologies
 
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tchiinhemba&hide=html&hide_border=true&card_width=600&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff)
+
+
 These are some of the technologies and tools that I work with:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)</a>
@@ -34,8 +37,6 @@ These are some of the technologies and tools that I work with:
 <a href="https://vercel.com/docs">![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)</a>
 <a href="https://docs.netlify.com/">![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)</a>
 <a href="https://docs.kernel.org/">![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)</a>
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tchiinhemba&hide=html&hide_border=true&card_width=600&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff)
 
 <!-- Refrence Links -->
 [counter]: https://komarev.com/ghpvc/?username=tchiinhemba&style=flat-square&color=6cd63e
