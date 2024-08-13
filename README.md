@@ -1,7 +1,7 @@
 ![profile views counter][counter]
 ### Hi there 👋
 
-I'm Eladio Tchiinhemba,  I'm a Software Engineer at [Grupo Zwela](https://grupozwela.com), and I've been a technology enthusiast since an early age. I'm from Angola, and I'm currently living in beautiful Luanda.
+I'm Eladio Tchiinhemba,  I'm a Software Developer at [Grupo Zwela](https://grupozwela.com), and I've been a technology enthusiast since an early age. I'm from Angola, and I'm currently living in beautiful Luanda.
 
 I love contributing to the community with [blog posts](https://www.linkedin.com/in/tchiinhemba).
 
