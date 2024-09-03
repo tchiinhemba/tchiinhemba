@@ -14,9 +14,9 @@ Over the years, I've honed my skills in both frontend and backend development, a
 
 ### 🚀 Frontend and Backend Repositories
 
-- **Frontend Projects:** Explore my frontend development journey, where I focus on creating elegant and functional user interfaces. Visit the [Frontend Projects Repository](https://github.com/your-frontend-org) to see my work with React.js, HTML, CSS, and other cutting-edge technologies.
+- **Frontend Projects:** Explore my frontend development journey, where I focus on creating elegant and functional user interfaces. Visit the [Frontend Projects Repository]([https://github.com/your-frontend-org](https://github.com/Tchiinhemba-Frontend-Projects)) to see my work with React.js, HTML, CSS, and other cutting-edge technologies.
   
-- **Backend Projects:** Dive into my backend expertise, where I build robust and scalable systems. Check out the [Backend Projects Repository](https://github.com/your-backend-org) to discover my work with Node.js, Python, and various backend frameworks.
+- **Backend Projects:** Dive into my backend expertise, where I build robust and scalable systems. Check out the [Backend Projects Repository]([https://github.com/your-backend-org](https://github.com/Tchiinhemba-Backend-Projects)) to discover my work with Node.js, Python, and various backend frameworks.
 
 ## ⚡ Technologies I Work With
 
