@@ -1,9 +1,13 @@
 ![Profile views counter][counter]
 ### Hi there 👋
 
-I'm Eládio Tchiinhemba, a passionate Software Developer with over 5 years of experience in the tech world. Born in Angola and currently based in the vibrant city of Luanda, I've always been driven by my enthusiasm for technology.
+I architect and deliver end-to-end digital products for the web, transforming business ideas into scalable, sustainable platforms. With over 10 years of programming experience, I’ve helped startups, agencies, and corporate groups like Grupo Zwela build technical operations from the ground up, leading projects, defining technology stacks, and ensuring high-impact execution.
 
-I love contributing to the community through [blog posts](https://www.linkedin.com/in/tchiinhemba), sharing insights and experiences that I've gained along my journey.
+My work spans full-stack development, technical leadership, UX/UI design, and process optimisation, always with a strong focus on user experience, code clarity, and long-term maintainability. I've contributed to projects for brands and organisations such as Banco BAI, EMIS, Azule Energy, AECIPA, and others in sectors ranging from finance and telecoms to energy and media.
+
+Currently, I drive technology strategy as Tech Lead at Bisc8 - Creative Studio, and channel my entrepreneurial mindset through Expressers, a web agency crafting tailored digital platforms and websites for businesses with a strong online presence.
+
+Core ethos: Technology should solve real problems, perform consistently, and grow with purpose.
 
 [![LinkedIn: tchiinhemba](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tchiinhemba/)](https://www.linkedin.com/in/tchiinhemba/)
 [![Instagram: tchiinhemba](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tchiinhemba)](https://www.instagram.com/tchiinhemba)
