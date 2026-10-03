@@ -1,4 +1,3 @@
-![Profile views counter][counter]
 ### Hi there 👋
 
 I architect and deliver end-to-end digital products for the web, transforming business ideas into scalable, sustainable platforms. With over 10 years of programming experience, I’ve helped startups, agencies, and corporate groups like Grupo Zwela build technical operations from the ground up, leading projects, defining technology stacks, and ensuring high-impact execution.
