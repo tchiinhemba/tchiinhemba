@@ -1,20 +1,23 @@
 ### Hi there 👋
 
-I architect and deliver end-to-end digital products for the web, transforming business ideas into scalable, sustainable platforms. With over 10 years of programming experience, I’ve helped startups, agencies, and corporate groups like Grupo Zwela build technical operations from the ground up, leading projects, defining technology stacks, and ensuring high-impact execution.
+I'm a **Solutions Architect** with over 10 years of experience in technology, specialising in software engineering, systems architecture, and enterprise digital solutions.
 
-[![LinkedIn: tchiinhemba](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tchiinhemba/)](https://www.linkedin.com/in/tchiinhemba/)
-[![Instagram: tchiinhemba](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tchiinhemba)](https://www.instagram.com/tchiinhemba)
+I design and deliver scalable, secure, and sustainable solutions that address business challenges, optimise operations, and create long-term value.
+
+Currently at **ASMARA Holdings**, I contribute to digital solutions across Retail, FMCG, Manufacturing, Logistics, Hospitality, and Real Estate, supporting the Group's global operations.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tchiinhemba/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tchiinhemba)
 
 ## 🌟 What I Do
 
-My work spans full-stack development, technical leadership, UX/UI design, and process optimisation, always with a strong focus on user experience, code clarity, and long-term maintainability. I've contributed to projects for brands and organisations such as Banco BAI, EMIS, Azule Energy, AECIPA, and others in sectors ranging from finance and telecoms to energy and media.
+My work focuses on **Solutions Architecture, Software Engineering, Systems Integration, and Enterprise Digital Transformation**, bridging business requirements with effective technology solutions.
 
-Currently, I drive technology strategy as Tech Lead at Bisc8 - Creative Studio, and channel my entrepreneurial mindset through Expressers, a web agency crafting tailored digital platforms and websites for businesses with a strong online presence.
+I have contributed to projects across finance, telecommunications, energy, media, and other industries, working with organisations such as Banco BAI, EMIS, Azule Energy, and AECIPA.
 
-Core ethos: Technology should solve real problems, perform consistently, and grow with purpose.
+**Core ethos:** Technology should solve real problems, create meaningful value, and evolve with purpose.
 
-### 🚀 Frontend and Backend Repositories
+## 🚀 Projects & Repositories
 
-- **Frontend Projects:** Explore my frontend development journey, where I focus on creating elegant and functional user interfaces. Visit the [Frontend Projects Repository](https://github.com/Tchiinhemba-Frontend-Projects) to see my work with React.js, HTML, CSS, and other cutting-edge technologies.
-  
-- **Backend Projects:** Dive into my backend expertise, where I build robust and scalable systems. Check out the [Backend Projects Repository](https://github.com/Tchiinhemba-Backend-Projects) to discover my work with Node.js and various backend frameworks.
+- **[Frontend Projects](https://github.com/Tchiinhemba-Frontend-Projects)** — Digital interfaces and user-focused applications.
+- **[Backend Projects](https://github.com/Tchiinhemba-Backend-Projects)** — Backend services, APIs, and scalable systems.
